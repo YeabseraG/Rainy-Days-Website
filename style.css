@@ -1,10 +1,12 @@
-{}
+
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+/*------ Navigation ------*/
 
 .nav {
     display: flex;
@@ -36,6 +38,10 @@ nav ul li {
     color: #001C22;
     font-weight: bolder
 }
+
+
+/*------ Body ------*/
+
 
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -229,6 +235,8 @@ h4 {
 }
 
 
+/*------ Footer ------*/
+
 
 .footer {
     background: #001C22;
@@ -334,7 +342,7 @@ h4 {
 
     
 
-    
+/*------ miscellaneous elements ------*/
     
     
     
